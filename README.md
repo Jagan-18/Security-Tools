@@ -8,7 +8,8 @@
 4. **Security Configuration Management:** Ensuring that infrastructure and applications are configured securely.
 5. **Compliance Monitoring:** Checking adherence to security policies and standards.
 6. **Incident Response:** Detecting and responding to security incidents in real time.
-These tools help integrate security seamlessly into the DevOps workflow, allowing for early detection and remediation of security issues, thus reducing risk and improving overall security posture.
+   
+- These tools help integrate security seamlessly into the DevOps workflow, allowing for early detection and remediation of security issues, thus reducing risk and improving overall security posture.
 
 
 # Port: It is like a communication channel on a server, alllowing different applications to send and receive data over a network.
@@ -85,4 +86,4 @@ These tools help integrate security seamlessly into the DevOps workflow, allowin
    - **Port 8081 (Various services)**: Sometimes used for web servers, application services, or admin dashboards.
    - **Port 3000 (Various services)**: Common for web development, especially with Node.js and frameworks like Express.js.
 
-These ports cover a wide range of services that DevOps engineers interact with, depending on the architecture, tools, and systems they manage.
+- These ports cover a wide range of services that DevOps engineers interact with, depending on the architecture, tools, and systems they manage.
