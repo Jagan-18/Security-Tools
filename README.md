@@ -1,4 +1,4 @@
-#Security tool:
+# Security tool:
 ---------------
 ### A DevOps security tool security tool is designed to integrate security practices into the DevOps lifecycle, ensuring that security is embedded throughout the development, deployment, and operations processes.
 - These tools aim to automate and streamline security tasks to support continuous integration and continuous delivery (CI/CD) pipelines. Key functions of DevOps security tools include:
