@@ -11,10 +11,10 @@
    
 - These tools help integrate security seamlessly into the DevOps workflow, allowing for early detection and remediation of security issues, thus reducing risk and improving overall security posture.
 
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Port: It is like a communication channel on a server, alllowing different applications to send and receive data over a network.
-# Total port are 65535 are there
-
+- **Port:** A port is a communication endpoint on a server that allows different applications to send and receive data over a network.
+- The total number of ports available is **65,535**.
 
 ## DevOps engineers commonly work with a range of ports depending on the services they are managing, deploying, and automating. Below are the most commonly used ports for DevOps tasks:
 ### 1. **HTTP/HTTPS Ports:**
